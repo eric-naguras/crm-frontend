@@ -1,3 +1,3 @@
-npx vue-cli-service build --mode production
+quasar build
 
 npx vue-cli-service s3-deploy --mode production
